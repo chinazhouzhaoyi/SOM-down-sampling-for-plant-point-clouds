@@ -1,11 +1,13 @@
 # SOM-down-sampling-for-plant-point-clouds
-'''
+```
 [ISPRS P&RS] Unsupervised shape-aware SOM down-sampling for plant point clouds
 Dawei Li, Zhaoyi Zhou, and Yongchang Wei
-'''
+```
 
-##Introduction
+## Introduction
 
-##Citation
+## Method
 
-##Installation and usage
+## Installation and usage
+
+## Citation
