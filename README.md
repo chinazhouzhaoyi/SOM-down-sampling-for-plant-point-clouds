@@ -3,6 +3,7 @@
 [ISPRS P&RS] Unsupervised shape-aware SOM down-sampling for plant point clouds
 Dawei Li, Zhaoyi Zhou, and Yongchang Wei
 ```
+The code  and dataset will be released soon.
 
 ## Introduction
 Observation of the external 3D shape/structure and some measurable phenotypic traits is of great significance to screening excellent varieties and improving crop yield in agriculture. The dense crop point clouds scanned by 3D sensors not only may include imaging noise, but also contain a large number of redundant points that will put high burden on storage and slow down the speed of algorithm for point cloud segmentation, classification, and other following processing steps.   
