@@ -2,14 +2,20 @@
 This repo contains the official codes for our paper:
 
 ### Unsupervised shape-aware SOM down-sampling for plant point clouds
-[Dawei Li](https://davidleepp.github.io/)<sup>[*](#myfootnote1)</sup>, Zhaoyi Zhou<sup>[*](#myfootnote1)</sup>, and Yongchang Wei
+[Dawei Li](https://davidleepp.github.io/)<sup>[†](#myfootnote1)</sup>, Zhaoyi Zhou<sup>[†](#myfootnote1)</sup>, and Yongchang Wei
 
-<a name="myfootnote1">*</a> _Equal contribution_
+<a name="myfootnote1">†</a> _Equal contribution_
 
 Published on _ISPRS Journal of Photogrammetry and Remote Sensing_ in 2024
 
 [[Paper](https://doi.org/10.1016/j.isprsjprs.2024.03.024)]
 ___
+
+## Acknowledgement
+Part of our code is descended and modified from the open-source code by N. Chebrolu, F. Magistri, T. La¨be, and C. Stachniss (University of Bonn). Their original code can be found at:  https://github.com/PRBonn/4d_plant_registration.
+
+Their related paper is as follows:
+N. Chebrolu, F. Magistri, T. La¨be, and C. Stachniss, (2021) Registration of spatio-temporal point clouds of plants for phenotyping. PLoS ONE 16(2):e0247243. https://doi.org/10.1371/journal.pone.0247243
 
 ## Prerequisites
 - Python == 3.10   
