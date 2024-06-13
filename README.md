@@ -119,7 +119,7 @@ python Adaptive_SOM.py
 - [ ] [Long-term] Acceleration code running on GPU
 - [x] Code & data initialization
 - [ ] [Short-term] Publicize data pieces and configurations on visualized samples in figures of the paper.
-
+- [ ] [Short-term] Publicize code of the compared down-sampling methods (FPS, 3DEPS, VFS).
 ## Citation
 Please consider citing our paper if the project helps your research with the following BibTex:
 ```
