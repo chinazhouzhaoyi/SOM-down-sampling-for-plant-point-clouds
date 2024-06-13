@@ -118,6 +118,7 @@ python Adaptive_SOM.py
 ## TODO List <a name="todos"></a>
 - [ ] [Long-term] Acceleration code running on GPU
 - [x] Code & data initialization
+- [ ] [Short-term] Publicize data pieces and configurations on visualized samples in figures of the paper.
 
 ## Citation
 Please consider citing our paper if the project helps your research with the following BibTex:
