@@ -32,11 +32,11 @@ Extensive experiments on a multi-species plant dataset were conducted using seve
 ![](docs/SOM_diagram.jpg)
 
 ## Quick Start
-The open-source code project is divided into 4 folders, each folder corresponds to an algorithm in the our paper.  
-folder [Algorithm1_1D_SOM] is Algorithm 1 in the paper,   
-folder [Algorithm2_2D_SOM] is Algorithm 2 in the paper,  
-folder [Algorithm3_3D_SOM] is Algorithm 3 in the paper, and  
-folder [Algorithm4_Adaptive] is Algorithm 4 in the paper.  
+The main open-source project can be divided into 4 folders, each folder corresponds to an different algorithm in our paper.  
+folder [Algorithm1_1D_SOM] corresponds to Algorithm 1 in the paper,   
+folder [Algorithm2_2D_SOM] corresponds to Algorithm 2 in the paper,  
+folder [Algorithm3_3D_SOM] corresponds to Algorithm 3 in the paper, and  
+folder [Algorithm4_Adaptive] corresponds to Algorithm 4 in the paper. 
 Partial source data from the paper provided in the folder [./source_data] 
 ### 1. Algorithm 1
 Improved 1D SOM for point set down-sampling runs on cpu mode.
