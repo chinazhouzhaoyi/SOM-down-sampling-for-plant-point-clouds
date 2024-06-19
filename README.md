@@ -9,6 +9,8 @@ This repo contains the official codes for our paper:
 Published on _ISPRS Journal of Photogrammetry and Remote Sensing_ in 2024
 
 [[Paper](https://doi.org/10.1016/j.isprsjprs.2024.03.024)]
+
+For more details about this research, please refer to a 10-minute presentation of our SOM work at https://www.bilibili.com/video/BV1LTg4enEM5/
 ___
 
 ## Acknowledgement
